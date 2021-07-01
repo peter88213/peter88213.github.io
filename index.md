@@ -4,40 +4,56 @@
 
 ## The yWriter toolbox
 
+---
+
 ### The yw-cnv extension for LibreOffice
 Import and export yWriter 7 projects.
 
 [![yw-cnv](img/yw-cnv_thumb.png)](https://peter88213.github.io/yw-cnv/)
+
+---
 
 ### The pywoo extension for OpenOffice and Python
 Import and export yWriter 7 projects.
 
 [![pywoo](img/pywoo_thumb.png)](https://peter88213.github.io/pywoo/)
 
+---
+
 ### yw-reporter
 Configurable report generator for yWriter projects.
 
 [![yw-reporter](img/yw-reporter_thumb.png)](https://peter88213.github.io/yw-reporter/)
+
+---
 
 ### yw-renumber 
 Renumber yWriter chapters.
 
 [![yw-renumber](img/yw-renumber_thumb.png)](https://peter88213.github.io/yw-renumber/)
 
+---
+
 ### yw2oo
 yWriter to OpenOffice/LibreOffice standalone converter.
 
 [![yW2OO](img/yw2oo_thumb.png)](https://peter88213.github.io/yW2OO/)
+
+---
 
 ### yw2html
 HTML export from yWriter with templates.
 
 [![yw2html](img/yw2html_thumb.png)](https://peter88213.github.io/yw2html/)
 
+---
+
 ### yw2md
 Markdown converter for yWriter projects.
 
 [![yw2md](img/yw2md_thumb.png)](https://peter88213.github.io/yw2md/)
+
+---
 
 ---
 
@@ -78,15 +94,21 @@ A style switcher extension.
 
 [![](img/styleswitcher_thumb.png)](https://peter88213.github.io/StyleSwitcher/)
 
+---
+
 ### The emph extension for OpenOffice
 Use character styles instead of direct formatting to mark up text.
 
 [![](img/emph_thumb.png)](https://peter88213.github.io/emph/)
 
+---
+
 ### The poemenia extension for OpenOffice
 Localize the Pepito Cleaner extension.
 
 [![poemenia](img/poemenia_thumb.png)](https://peter88213.github.io/poemenia/)
+
+---
 
 ---
 
