@@ -77,19 +77,19 @@ A style switcher extension.
 [![](img/styleswitcher_thumb.png)](https://peter88213.github.io/StyleSwitcher/)
 
 ### The emph extension for OpenOffice
-Use character styles instead of direct formatting to mark up text
+Use character styles instead of direct formatting to mark up text.
 
 [![](img/emph_thumb.png)](https://peter88213.github.io/emph/)
 
 ### The poemenia extension for OpenOffice
-Localize the Pepito Cleaner extension
+Localize the Pepito Cleaner extension.
 
 [![poemenia](img/poemenia_thumb.png)](https://peter88213.github.io/poemenia/)
 
 ---
 
 ## The PyWriter library
-Read, write, and process yWriter7 files with Python 3
+Read, write, and process yWriter7 files with Python 3.
 
 [![](img/pywriter_thumb.png)](https://peter88213.github.io/PyWriter/)
 
