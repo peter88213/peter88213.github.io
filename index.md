@@ -2,7 +2,7 @@
 
 ---
 
-## The yWriter toolbox
+## -- The yWriter toolbox
 
 ---
 
@@ -53,11 +53,12 @@ Markdown converter for yWriter projects.
 
 [![yw2md](img/yw2md_thumb.png)](https://peter88213.github.io/yw2md/)
 
----
 
 ---
 
-## OpenOffice/LibreOffice helpers for self publishers
+## -- OpenOffice/LibreOffice helpers for self publishers
+
+---
 
 ### The "curly" extensions for OpenOffice and LibreOffice
 "Curly quotes" conversion.
@@ -108,11 +109,10 @@ Localize the Pepito Cleaner extension.
 
 [![poemenia](img/poemenia_thumb.png)](https://peter88213.github.io/poemenia/)
 
----
 
 ---
 
-## The PyWriter library
+## -- The PyWriter library
 Read, write, and process yWriter7 files with Python 3.
 
 [![](img/pywriter_thumb.png)](https://peter88213.github.io/PyWriter/)
