@@ -1,5 +1,7 @@
 # My open source projects on GitHub
 
+---
+
 ## The yWriter toolbox
 
 ### The yw-cnv extension for LibreOffice
