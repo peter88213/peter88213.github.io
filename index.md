@@ -48,6 +48,13 @@ HTML export from yWriter with templates.
 
 ---
 
+### yw2xtg
+XPress tagged text export from yWriter projects.
+
+[![yw2xtg](img/yw2xtg_thumb.png)](https://peter88213.github.io/yw2xtg/)
+
+---
+
 ### yw2md
 Markdown converter for yWriter projects.
 
