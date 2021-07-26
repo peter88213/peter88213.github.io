@@ -20,6 +20,13 @@ Import and export yWriter 7 projects.
 
 ---
 
+### yw-timeline
+Synchronize yWriter with Timeline.
+
+[![yw-timeline](img/yw-timeline_thumb.png)](https://peter88213.github.io/yw-timeline/)
+
+---
+
 ### yw-reporter
 Configurable report generator for yWriter projects.
 
