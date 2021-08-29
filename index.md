@@ -63,6 +63,13 @@ XPress tagged text export from yWriter projects.
 ---
 
 
+### scappex
+Generate a yWriter 7 project from a Scapple outline.
+
+[![scappex](img/scappex_thumb.png)](https://peter88213.github.io/scappex/)
+
+---
+
 ### aeon2yw
 Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 2.
 
