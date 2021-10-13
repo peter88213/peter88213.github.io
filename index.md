@@ -70,6 +70,13 @@ Generate a yWriter 7 project from a Scapple outline.
 
 ---
 
+### aeon3yw
+Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 3.
+
+[![aeon3yw](img/aeon3yw_thumb.png)](https://peter88213.github.io/aeon3yw/)
+
+---
+
 ### aeon2yw
 Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 2.
 
@@ -145,6 +152,13 @@ Localize the Pepito Cleaner extension.
 
 [![poemenia](img/poemenia_thumb.png)](https://peter88213.github.io/poemenia/)
 
+
+---
+
+### aeon3odt
+The aeon3odt extension for LibreOffice: Import Aeon Timeline 3 project data.
+
+[![aeon3odt](img/aeon3odt_thumb.png)](https://peter88213.github.io/aeon3odt/)
 
 ---
 
