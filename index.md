@@ -27,6 +27,13 @@ Synchronize yWriter with Timeline.
 
 ---
 
+### aeon2yw
+Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 2.
+
+[![aeon2yw](img/aeon2yw_thumb.png)](https://peter88213.github.io/aeon2yw/)
+
+---
+
 ### yw-reporter
 Configurable report generator for yWriter projects.
 
@@ -74,13 +81,6 @@ Generate a yWriter 7 project from a Scapple outline.
 Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 3.
 
 [![aeon3yw](img/aeon3yw_thumb.png)](https://peter88213.github.io/aeon3yw/)
-
----
-
-### aeon2yw
-Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 2.
-
-[![aeon2yw](img/aeon2yw_thumb.png)](https://peter88213.github.io/aeon2yw/)
 
 ---
 
