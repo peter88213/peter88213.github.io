@@ -28,7 +28,7 @@ Synchronize yWriter with Timeline.
 ---
 
 ### aeon2yw
-Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 2.
+Synchronize Aeon Timeline 2 and yWriter.
 
 [![aeon2yw](img/aeon2yw_thumb.png)](https://peter88213.github.io/aeon2yw/)
 
