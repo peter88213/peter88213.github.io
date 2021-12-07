@@ -162,6 +162,13 @@ The aeon3odt extension for LibreOffice: Import Aeon Timeline 3 project data.
 
 ---
 
+### paeon
+Tools for Aeon Timeline support.
+
+[![paeon](img/paeon_thumb.png)](https://peter88213.github.io/paeon/)
+
+---
+
 ## -- The PyWriter library
 Read, write, and process yWriter7 files with Python 3.
 
