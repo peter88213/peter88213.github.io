@@ -78,7 +78,7 @@ Generate a yWriter 7 project from a Scapple outline.
 ---
 
 ### aeon3yw
-Generate a yWriter 7 project from an csv outline exported from Aeon Timeline 3.
+Generate a yWriter 7 project from an Aeon 3 timeline.
 
 [![aeon3yw](img/aeon3yw_thumb.png)](https://peter88213.github.io/aeon3yw/)
 
