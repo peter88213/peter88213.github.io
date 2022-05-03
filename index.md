@@ -27,6 +27,13 @@ Quickly view yWriter projects.
 
 ---
 
+### novelyst
+A tree view for yWriter projects.
+
+[![novelyst](img/novelyst_thumb.png)](https://peter88213.github.io/novelyst/)
+
+---
+
 ### yw-timeline
 Synchronize yWriter with Timeline.
 
