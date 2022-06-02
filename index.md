@@ -27,20 +27,6 @@ Quickly view yWriter projects.
 
 ---
 
-### novelyst
-A tree view for yWriter projects.
-
-[![novelyst](img/novelyst_thumb.png)](https://peter88213.github.io/novelyst/)
-
----
-
-### novelyst_editor
-*novelyst* scene editor plugin.
-
-[![novelyst_editor](img/novelyst_editor_thumb.png)](https://peter88213.github.io/novelyst_editor/)
-
----
-
 ### yw-timeline
 Synchronize yWriter with Timeline.
 
@@ -110,6 +96,20 @@ Markdown converter for yWriter projects.
 
 [![yw2md](img/yw2md_thumb.png)](https://peter88213.github.io/yw2md/)
 
+
+---
+
+### novelyst
+A tree view for yWriter projects.
+
+[![novelyst](img/novelyst_thumb.png)](https://peter88213.github.io/novelyst/)
+
+---
+
+### novelyst_editor
+*novelyst* scene editor plugin.
+
+[![novelyst_editor](img/novelyst_editor_thumb.png)](https://peter88213.github.io/novelyst_editor/)
 
 ---
 
