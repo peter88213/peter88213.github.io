@@ -62,6 +62,13 @@ yWriter to OpenOffice/LibreOffice standalone converter.
 
 ---
 
+### yw2mso
+yWriter to MS Office standalone converter.
+
+[![yw2mso](img/yw2mso_thumb.png)](https://peter88213.github.io/yw2mso/)
+
+---
+
 ### yw2html
 HTML export from yWriter with templates.
 
