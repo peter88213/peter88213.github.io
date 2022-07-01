@@ -65,7 +65,7 @@ yWriter to OpenOffice/LibreOffice standalone converter.
 ### yw2oxml
 yWriter to Open XML standalone converter.
 
-[![yw2oxml](img/yw2mso_thumb.png)](https://peter88213.github.io/yw2oxml/)
+[![yw2oxml](img/yw2oxml_thumb.png)](https://peter88213.github.io/yw2oxml/)
 
 ---
 
