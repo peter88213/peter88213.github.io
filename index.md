@@ -208,6 +208,6 @@ Tools for Aeon Timeline support.
 ## -- The PyWriter library
 Read, write, and process yWriter7 files with Python 3.
 
-[![](img/pywriter_thumb.png)](https://peter88213.github.io/PyWriter/)
+(GitHub repository)](https://github.com/peter88213/PyWriter/)
 
 
