@@ -113,13 +113,6 @@ A tree view for yWriter projects.
 
 ---
 
-### novelyst_editor
-*novelyst* scene editor plugin.
-
-[![novelyst_editor](img/novelyst_editor_thumb.png)](https://peter88213.github.io/novelyst_editor/)
-
----
-
 ### yw2nw
 yWriter to novelWriter converter.
 
