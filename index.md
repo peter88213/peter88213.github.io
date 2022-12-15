@@ -9,77 +9,84 @@
 ### The yw-cnv extension for LibreOffice
 Import and export yWriter 7 projects.
 
-[![yw-cnv](img/yw-cnv_thumb.png)](https://peter88213.github.io/yw-cnv/)
+[![yw-cnv](img/yw-cnv.png)](https://peter88213.github.io/yw-cnv/)
 
 ---
 
 ### The pywoo extension for OpenOffice and Python
 Import and export yWriter 7 projects.
 
-[![pywoo](img/pywoo_thumb.png)](https://peter88213.github.io/pywoo/)
+[![pywoo](img/pywoo.png)](https://peter88213.github.io/pywoo/)
 
 ---
 
 ### yw-viewer
 Quickly view yWriter projects.
 
-[![yw-viewer](img/yw-viewer_thumb.png)](https://peter88213.github.io/yw-viewer/)
+[![yw-viewer](img/yw-viewer.png)](https://peter88213.github.io/yw-viewer/)
 
 ---
 
 ### yw-timeline
 Synchronize yWriter with Timeline.
 
-[![yw-timeline](img/yw-timeline_thumb.png)](https://peter88213.github.io/yw-timeline/)
+[![yw-timeline](img/yw-timeline.png)](https://peter88213.github.io/yw-timeline/)
+
+---
+
+### yw-table
+A relationship table for yw7 files.
+
+[![yw-table](img/yw-table.png)](https://peter88213.github.io/yw-table/)
 
 ---
 
 ### aeon2yw
 Synchronize Aeon Timeline 2 and yWriter.
 
-[![aeon2yw](img/aeon2yw_thumb.png)](https://peter88213.github.io/aeon2yw/)
+[![aeon2yw](img/aeon2yw.png)](https://peter88213.github.io/aeon2yw/)
 
 ---
 
 ### yw-reporter
 Configurable report generator for yWriter projects.
 
-[![yw-reporter](img/yw-reporter_thumb.png)](https://peter88213.github.io/yw-reporter/)
+[![yw-reporter](img/yw-reporter.png)](https://peter88213.github.io/yw-reporter/)
 
 ---
 
 ### yw-renumber 
 Renumber yWriter chapters.
 
-[![yw-renumber](img/yw-renumber_thumb.png)](https://peter88213.github.io/yw-renumber/)
+[![yw-renumber](img/yw-renumber.png)](https://peter88213.github.io/yw-renumber/)
 
 ---
 
 ### yw2oo
 yWriter to OpenOffice/LibreOffice standalone converter.
 
-[![yW2OO](img/yw2oo_thumb.png)](https://peter88213.github.io/yW2OO/)
+[![yW2OO](img/yw2oo.png)](https://peter88213.github.io/yW2OO/)
 
 ---
 
 ### yw2oxml
 yWriter to Open XML standalone converter.
 
-[![yw2oxml](img/yw2oxml_thumb.png)](https://peter88213.github.io/yw2oxml/)
+[![yw2oxml](img/yw2oxml.png)](https://peter88213.github.io/yw2oxml/)
 
 ---
 
 ### yw2html
 HTML export from yWriter with templates.
 
-[![yw2html](img/yw2html_thumb.png)](https://peter88213.github.io/yw2html/)
+[![yw2html](img/yw2html.png)](https://peter88213.github.io/yw2html/)
 
 ---
 
 ### yw2xtg
 XPress tagged text export from yWriter projects.
 
-[![yw2xtg](img/yw2xtg_thumb.png)](https://peter88213.github.io/yw2xtg/)
+[yw2xtg](https://peter88213.github.io/yw2xtg/)
 
 ---
 
@@ -87,21 +94,21 @@ XPress tagged text export from yWriter projects.
 ### scappex
 Generate a yWriter 7 project from a Scapple outline.
 
-[![scappex](img/scappex_thumb.png)](https://peter88213.github.io/scappex/)
+[![scappex](img/scappex.png)](https://peter88213.github.io/scappex/)
 
 ---
 
 ### aeon3yw
 Generate a yWriter 7 project from an Aeon 3 timeline.
 
-[![aeon3yw](img/aeon3yw_thumb.png)](https://peter88213.github.io/aeon3yw/)
+[![aeon3yw](img/aeon3yw.png)](https://peter88213.github.io/aeon3yw/)
 
 ---
 
 ### yw2md
 Markdown converter for yWriter projects.
 
-[![yw2md](img/yw2md_thumb.png)](https://peter88213.github.io/yw2md/)
+[yw2md](https://peter88213.github.io/yw2md/)
 
 
 ---
@@ -109,21 +116,21 @@ Markdown converter for yWriter projects.
 ### novelyst
 A tree view for yWriter projects.
 
-[![novelyst](img/novelyst_thumb.png)](https://peter88213.github.io/novelyst/)
+[![novelyst](img/novelyst.png)](https://peter88213.github.io/novelyst/)
 
 ---
 
 ### yw2nw
 yWriter to novelWriter converter.
 
-[![yw2nw](img/yw2nw_thumb.png)](https://peter88213.github.io/yw2nw/)
+[yw2nw](https://peter88213.github.io/yw2nw/)
 
 
 ---
 ### yw2odm
 yWriter export to odm/odt documents.
 
-[![yw2odm](img/yw2odm_thumb.png)](https://peter88213.github.io/yw2odm/)
+[yw2odm](https://peter88213.github.io/yw2odm/)
 
 
 ---
@@ -135,29 +142,29 @@ yWriter export to odm/odt documents.
 ### The "curly" extensions for OpenOffice and LibreOffice
 "Curly quotes" conversion.
 
-[![](img/curly_thumb.png)](https://peter88213.github.io/curly/)
+[![](img/curly.png)](https://peter88213.github.io/curly/)
 
 <!---
 
 ### The curly-fr-fr extension
 
-[![](img/curly-fr-fr_thumb.png)](https://peter88213.github.io/curly-fr-FR/)
+[![](img/curly-fr-fr.png)](https://peter88213.github.io/curly-fr-FR/)
 
 ### The curly-en-us extension
 
-[![](img/curly-en-us_thumb.png)](https://peter88213.github.io/curly-en-US/)
+[![](img/curly-en-us.png)](https://peter88213.github.io/curly-en-US/)
 
 ### The curly-en-gb extension
 
-[![](img/curly-en-gb_thumb.png)](https://peter88213.github.io/curly-en-GB/)
+[![](img/curly-en-gb.png)](https://peter88213.github.io/curly-en-GB/)
 
 ### The curly-de-de extension
 
-[![](img/curly-de-de_thumb.png)](https://peter88213.github.io/curly-de-DE/)
+[![](img/curly-de-de.png)](https://peter88213.github.io/curly-de-DE/)
 
 ### The curly-de-ch extension
 
-[![](img/curly-de-ch_thumb.png)](https://peter88213.github.io/curly-de-CH/)
+[![](img/curly-de-ch.png)](https://peter88213.github.io/curly-de-CH/)
 --->
 
 ---
@@ -165,21 +172,21 @@ yWriter export to odm/odt documents.
 ### The StyleSwitcher extension for OpenOffice and LibreOffice
 A style switcher extension.
 
-[![](img/styleswitcher_thumb.png)](https://peter88213.github.io/StyleSwitcher/)
+[![](img/styleswitcher.png)](https://peter88213.github.io/StyleSwitcher/)
 
 ---
 
 ### The emph extension for OpenOffice
 Use character styles instead of direct formatting to mark up text.
 
-[![](img/emph_thumb.png)](https://peter88213.github.io/emph/)
+[![](img/emph.png)](https://peter88213.github.io/emph/)
 
 ---
 
 ### The poemenia extension for OpenOffice
 Localize the Pepito Cleaner extension.
 
-[![poemenia](img/poemenia_thumb.png)](https://peter88213.github.io/poemenia/)
+[![poemenia](img/poemenia.png)](https://peter88213.github.io/poemenia/)
 
 
 ---
@@ -187,14 +194,14 @@ Localize the Pepito Cleaner extension.
 ### aeon3odt
 The aeon3odt extension for LibreOffice: Import Aeon Timeline 3 project data.
 
-[![aeon3odt](img/aeon3odt_thumb.png)](https://peter88213.github.io/aeon3odt/)
+[![aeon3odt](img/aeon3odt.png)](https://peter88213.github.io/aeon3odt/)
 
 ---
 
 ### paeon
 Tools for Aeon Timeline support.
 
-[![paeon](img/paeon_thumb.png)](https://peter88213.github.io/paeon/)
+[paeon tools](https://peter88213.github.io/paeon/)
 
 ---
 
