@@ -41,17 +41,17 @@ A relationship table for yw7 files.
 
 ---
 
-### aeon2yw
-Synchronize Aeon Timeline 2 and yWriter.
-
-[![aeon2yw](img/aeon2yw.png)](https://peter88213.github.io/aeon2yw/)
-
----
-
 ### yw-reporter
 Configurable report generator for yWriter projects.
 
 [![yw-reporter](img/yw-reporter.png)](https://peter88213.github.io/yw-reporter/)
+
+---
+
+### yw2oxml
+yWriter to Open XML standalone converter.
+
+[![yw2oxml](img/yw2oxml.png)](https://peter88213.github.io/yw2oxml/)
 
 ---
 
@@ -69,13 +69,6 @@ yWriter to OpenOffice/LibreOffice standalone converter.
 
 ---
 
-### yw2oxml
-yWriter to Open XML standalone converter.
-
-[![yw2oxml](img/yw2oxml.png)](https://peter88213.github.io/yw2oxml/)
-
----
-
 ### yw2html
 HTML export from yWriter with templates.
 
@@ -90,6 +83,13 @@ XPress tagged text export from yWriter projects.
 
 ---
 
+
+### aeon2yw
+Synchronize Aeon Timeline 2 and yWriter.
+
+[![aeon2yw](img/aeon2yw.png)](https://peter88213.github.io/aeon2yw/)
+
+---
 
 ### scappex
 Generate a yWriter 7 project from a Scapple outline.
