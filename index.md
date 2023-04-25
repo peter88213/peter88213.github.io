@@ -2,6 +2,13 @@
 
 ---
 
+### novelyst
+A novel organizer for writers.
+
+[![novelyst](img/novelyst.png)](https://peter88213.github.io/novelyst/)
+
+---
+
 ## -- The yWriter toolbox
 
 ---
@@ -110,13 +117,6 @@ Markdown converter for yWriter projects.
 
 [yw2md](https://peter88213.github.io/yw2md/)
 
-
----
-
-### novelyst
-A tree view for yWriter projects.
-
-[![novelyst](img/novelyst.png)](https://peter88213.github.io/novelyst/)
 
 ---
 
