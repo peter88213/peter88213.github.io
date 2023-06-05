@@ -62,6 +62,13 @@ yWriter to Open XML standalone converter.
 
 ---
 
+### mm2yw7
+Generate a yWriter 7 project from a FreeMind outline. 
+
+[![mm2yw7](img/mm2yw7.png)](https://peter88213.github.io/mm2yw7/)
+
+---
+
 ### yw-renumber 
 Renumber yWriter chapters.
 
@@ -123,7 +130,7 @@ Markdown converter for yWriter projects.
 ### yw2nw
 yWriter to novelWriter converter.
 
-[yw2nw](https://peter88213.github.io/yw2nw/)
+[![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
 
 
 ---
