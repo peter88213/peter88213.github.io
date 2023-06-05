@@ -84,7 +84,7 @@ yWriter to OpenOffice/LibreOffice standalone converter.
 ---
 
 ### yw2html
-HTML export from yWriter with templates.
+HTML export from yWriter with custom templates.
 
 [![yw2html](img/yw2html.png)](https://peter88213.github.io/yw2html/)
 
