@@ -151,7 +151,7 @@ Converter between yWriter and novelWriter.
 
 Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
 
-[![md2nw](img/yw2nw.png)](https://peter88213.github.io/md2nw/)
+[md2nw](https://peter88213.github.io/md2nw/)
 
 
 ---
@@ -160,7 +160,7 @@ Generate a novelWriter project from a work in progress written with any text edi
 
 Generate a novelWriter project from a work in progress written with e.g. LibreOffice.
 
-[![odt2nw](img/yw2nw.png)](https://peter88213.github.io/odt2nw/)
+[odt2nw](https://peter88213.github.io/odt2nw/)
 
 
 ---
@@ -169,7 +169,7 @@ Generate a novelWriter project from a work in progress written with e.g. LibreOf
 
 Generate a novelWriter project from a FreeMind/Freeplane outline.
 
-[![mm2nw](img/yw2nw.png)](https://peter88213.github.io/mm2nw/)
+[mm2nw](https://peter88213.github.io/mm2nw/)
 
 
 ---
