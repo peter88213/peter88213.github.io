@@ -124,20 +124,52 @@ Markdown converter for yWriter projects.
 
 [yw2md](https://peter88213.github.io/yw2md/)
 
+---
+
+### yw2odm
+yWriter export to odm/odt documents.
+
+[yw2odm](https://peter88213.github.io/yw2odm/)
+
+
+---
+
+## -- The novelWriter toolbox
 
 ---
 
 ### yw2nw
-yWriter to novelWriter converter.
+
+Converter between yWriter and novelWriter.
 
 [![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
 
 
 ---
-### yw2odm
-yWriter export to odm/odt documents.
 
-[yw2odm](https://peter88213.github.io/yw2odm/)
+### md2nw
+
+Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
+
+[![md2nw](img/yw2nw.png)](https://peter88213.github.io/md2nw/)
+
+
+---
+
+### odt2nw
+
+Generate a novelWriter project from a work in progress written with e.g. LibreOffice.
+
+[![odt2nw](img/yw2nw.png)](https://peter88213.github.io/odt2nw/)
+
+
+---
+
+### mm2nw
+
+Generate a novelWriter project from a FreeMind/Freeplane outline.
+
+[![mm2nw](img/yw2nw.png)](https://peter88213.github.io/mm2nw/)
 
 
 ---
