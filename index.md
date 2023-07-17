@@ -250,6 +250,13 @@ Tools for Aeon Timeline support.
 
 ---
 
+### zim2obsidian
+Convert Zim Markdown export to Obsidian.
+
+[zim2obsidian](https://github.com/peter88213/zim2obsidian)
+
+---
+
 ## -- The PyWriter library
 Read, write, and process yWriter7 files with Python 3.
 
