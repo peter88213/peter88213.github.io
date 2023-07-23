@@ -251,7 +251,7 @@ Tools for Aeon Timeline support.
 ---
 
 ### zim2obsidian
-Convert Zim Markdown export to Obsidian.
+Post-process Zim Markdown export for use with Obsidian. 
 
 [zim2obsidian](https://github.com/peter88213/zim2obsidian)
 
