@@ -27,6 +27,13 @@ Import and export yWriter 7 projects.
 
 ---
 
+### ProofYw7
+Import and export ywriter7 scenes for proof reading.
+
+[![ProofYw7](img/proofyw7.png)](https://peter88213.github.io/ProofYw7/)
+
+---
+
 ### yw-viewer
 Quickly view yWriter projects.
 
