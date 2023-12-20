@@ -141,43 +141,10 @@ yWriter export to odm/odt documents.
 
 ---
 
-## -- The novelWriter toolbox
+## -- The PyWriter library
+Read, write, and process yWriter7 files with Python 3.
 
----
-
-### yw2nw
-
-Converter between yWriter and novelWriter.
-
-[![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
-
-
----
-
-### md2nw
-
-Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
-
-[md2nw](https://github.com/peter88213/md2nw/)
-
-
----
-
-### odt2nw
-
-Generate a novelWriter project from a work in progress written with e.g. LibreOffice.
-
-[odt2nw](https://github.com/peter88213/odt2nw/)
-
-
----
-
-### mm2nw
-
-Generate a novelWriter project from a FreeMind/Freeplane outline.
-
-[mm2nw](https://github.com/peter88213/mm2nw/)
-
+[GitHub repository](https://github.com/peter88213/PyWriter/)
 
 ---
 
@@ -262,11 +229,52 @@ Post-process Zim Markdown export for use with Obsidian.
 
 [zim2obsidian](https://github.com/peter88213/zim2obsidian)
 
+
 ---
 
-## -- The PyWriter library
-Read, write, and process yWriter7 files with Python 3.
+### convert_manuskript_world
+A Python script to convert the Manuskript "world.opml" file to markdown.
 
-[GitHub repository](https://github.com/peter88213/PyWriter/)
+[convert_manuskript_world](https://github.com/peter88213/convert_manuskript_world)
+
+---
+
+## -- The novelWriter toolbox
+
+---
+
+### yw2nw
+
+Converter between yWriter and novelWriter.
+
+[![yw2nw](img/yw2nw.png)](https://peter88213.github.io/yw2nw/)
+
+
+---
+
+### md2nw
+
+Generate a novelWriter project from a work in progress written with any text editor or Markdown word processor.
+
+[md2nw](https://github.com/peter88213/md2nw/)
+
+
+---
+
+### odt2nw
+
+Generate a novelWriter project from a work in progress written with e.g. LibreOffice.
+
+[odt2nw](https://github.com/peter88213/odt2nw/)
+
+
+---
+
+### mm2nw
+
+Generate a novelWriter project from a FreeMind/Freeplane outline.
+
+[mm2nw](https://github.com/peter88213/mm2nw/)
+
 
 
