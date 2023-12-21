@@ -233,7 +233,7 @@ Post-process Zim Markdown export for use with Obsidian.
 ---
 
 ### convert_manuskript_world
-A Python script to convert the Manuskript "world.opml" file to markdown.
+A Python script to convert the *Manuskript* world and character files into markdown.
 
 [convert_manuskript_world](https://github.com/peter88213/convert_manuskript_world)
 
