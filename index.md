@@ -63,11 +63,27 @@ Localize the Pepito Cleaner extension.
 
 ---
 
-### novelyst
+### noveltree
 
 A novel organizer for writers.
 
-[![novelyst](img/novelyst.png)](https://peter88213.github.io/novelyst/)
+[![noveltree](img/noveltree.png)](https://peter88213.github.io/noveltree/)
+
+---
+
+### scap_novx
+
+Generate a *noveltree* project from a Scapple outline.
+
+[![scap_novx](img/scap_novx.png)](https://peter88213.github.io/scap_novx/)
+
+---
+
+### novx_xtg
+
+XPress tagged text export from *noveltree* projects.
+
+[novx_xtg](https://peter88213.github.io/novx_xtg/)
 
 ---
 
@@ -178,7 +194,6 @@ XPress tagged text export from yWriter projects.
 [yw2xtg](https://peter88213.github.io/yw2xtg/)
 
 ---
-
 
 ### aeon2yw
 
