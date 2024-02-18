@@ -67,7 +67,7 @@ Localize the Pepito Cleaner extension.
 
 A novel organizer for writers.
 
-[![noveltree](img/noveltree.png)](https://peter88213.github.io/noveltree/)
+[![noveltree](img/noveltree.png)](https://github.com/peter88213/noveltree/)
 
 ---
 
@@ -75,7 +75,7 @@ A novel organizer for writers.
 
 Generate a *noveltree* project from a Scapple outline.
 
-[![scap_novx](img/scap_novx.png)](https://peter88213.github.io/scap_novx/)
+[![scap_novx](img/scap_novx.png)](https://github.com/peter88213/scap_novx/)
 
 ---
 
@@ -83,7 +83,7 @@ Generate a *noveltree* project from a Scapple outline.
 
 XPress tagged text export from *noveltree* projects.
 
-[novx_xtg](https://peter88213.github.io/novx_xtg/)
+[novx_xtg](https://github.com/peter88213/novx_xtg/)
 
 ---
 
