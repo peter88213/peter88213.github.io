@@ -256,6 +256,14 @@ The aeon3odt extension for LibreOffice: Import Aeon Timeline 3 project data.
 
 ---
 
+### aeon3obsidian
+
+Export Aeon Timeline 3 project to Obsidian Markdown files.
+
+[![aeon3obsidian](img/aeon3obsidian.png)](https://peter88213.github.io/aeon3obsidian/)
+
+---
+
 ### aeon3md
 
 Markdown export for Aeon Timeline 3.
