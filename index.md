@@ -264,6 +264,14 @@ Export Aeon Timeline 3 project to Obsidian Markdown files.
 
 ---
 
+### aeon2obsidian
+
+Export Aeon Timeline 2 project to Obsidian Markdown files.
+
+[![aeon2obsidian](img/aeon2obsidian.png)](https://peter88213.github.io/aeon2obsidian/)
+
+---
+
 ### aeon3md
 
 Markdown export for Aeon Timeline 3.
