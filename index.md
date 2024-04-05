@@ -83,7 +83,7 @@ Generate a *novelibre* project from a Scapple outline.
 
 XPress tagged text export from *novelibre* projects.
 
-[novx_xtg](https://github.com/peter88213/novx_xtg/)
+[![novx_xtg](img/novx_xtg.png)](https://github.com/peter88213/novx_xtg/)
 
 ---
 
