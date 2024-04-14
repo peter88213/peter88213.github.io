@@ -310,6 +310,13 @@ A Python application for Manuskript data export from outsides.
 
 ---
 
+### nw_metadata
+
+Create a cross reference table with novelWriter metadata. 
+
+[nw_metadata](https://github.com/peter88213/nw_metadata)
+
+---
 
 ### yw2nw
 
