@@ -64,7 +64,7 @@ A Python script to create Markdown-formatted text files from a Manuskript projec
 
 A Python application for Manuskript data export from outsides. 
 
-[manuskript-exporter](https://github.com/peter88213/manuskript-exporter)
+[![manuskript-exporter](img/manuskript-exporter.png)](https://github.com/peter88213/manuskript-exporter)
 
 ---
 
