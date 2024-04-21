@@ -2,11 +2,11 @@
 
 ---
 
-## Applications
+# Applications
 
 ---
 
-### novelibre
+## novelibre
 
 An application for novelists who prefer to write with LibreOffice or OpenOffice, but need additional features for the organization of their work.
 
@@ -14,7 +14,7 @@ An application for novelists who prefer to write with LibreOffice or OpenOffice,
 
 ---
 
-### scap_novx
+## scap_novx
 
 Generate a *novelibre* project from a Scapple outline.
 
@@ -22,7 +22,7 @@ Generate a *novelibre* project from a Scapple outline.
 
 ---
 
-### novx_xtg
+## novx_xtg
 
 XPress tagged text export from *novelibre* projects.
 

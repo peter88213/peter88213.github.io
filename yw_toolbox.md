@@ -2,11 +2,11 @@
 
 ---
 
-##  The yWriter toolbox
+#  The yWriter toolbox
 
 ---
 
-### The yw-cnv extension for LibreOffice
+## The yw-cnv extension for LibreOffice
 
 Import and export yWriter 7 projects.
 
@@ -14,7 +14,7 @@ Import and export yWriter 7 projects.
 
 ---
 
-### The pywoo extension for OpenOffice and Python
+## The pywoo extension for OpenOffice and Python
 
 Import and export yWriter 7 projects.
 
@@ -22,7 +22,7 @@ Import and export yWriter 7 projects.
 
 ---
 
-### ProofYw7
+## ProofYw7
 
 Import and export ywriter7 scenes for proof reading.
 
@@ -30,7 +30,7 @@ Import and export ywriter7 scenes for proof reading.
 
 ---
 
-### yw-viewer
+## yw-viewer
 
 Quickly view yWriter projects.
 
@@ -38,7 +38,7 @@ Quickly view yWriter projects.
 
 ---
 
-### yw-timeline
+## yw-timeline
 
 Synchronize yWriter with Timeline.
 
@@ -46,7 +46,7 @@ Synchronize yWriter with Timeline.
 
 ---
 
-### yw-table
+## yw-table
 
 A relationship table for yw7 files.
 
@@ -54,7 +54,7 @@ A relationship table for yw7 files.
 
 ---
 
-### yw-reporter
+## yw-reporter
 
 Configurable report generator for yWriter projects.
 
@@ -62,7 +62,7 @@ Configurable report generator for yWriter projects.
 
 ---
 
-### yw2oxml
+## yw2oxml
 
 yWriter to Open XML standalone converter.
 
@@ -70,7 +70,7 @@ yWriter to Open XML standalone converter.
 
 ---
 
-### mm2yw7
+## mm2yw7
 
 Generate a yWriter 7 project from a FreeMind outline. 
 
@@ -78,7 +78,7 @@ Generate a yWriter 7 project from a FreeMind outline.
 
 ---
 
-### yw-renumber 
+## yw-renumber 
 
 Renumber yWriter chapters.
 
@@ -86,7 +86,7 @@ Renumber yWriter chapters.
 
 ---
 
-### yw2oo
+## yw2oo
 
 yWriter to OpenOffice/LibreOffice standalone converter.
 
@@ -94,7 +94,7 @@ yWriter to OpenOffice/LibreOffice standalone converter.
 
 ---
 
-### yw2html
+## yw2html
 
 HTML export from yWriter with custom templates.
 
@@ -102,7 +102,7 @@ HTML export from yWriter with custom templates.
 
 ---
 
-### yw2xtg
+## yw2xtg
 
 XPress tagged text export from yWriter projects.
 
@@ -110,7 +110,7 @@ XPress tagged text export from yWriter projects.
 
 ---
 
-### aeon2yw
+## aeon2yw
 
 Synchronize Aeon Timeline 2 and yWriter.
 
@@ -118,7 +118,7 @@ Synchronize Aeon Timeline 2 and yWriter.
 
 ---
 
-### scappex
+## scappex
 
 Generate a yWriter 7 project from a Scapple outline.
 
@@ -126,7 +126,7 @@ Generate a yWriter 7 project from a Scapple outline.
 
 ---
 
-### aeon3yw
+## aeon3yw
 
 Generate a yWriter 7 project from an Aeon 3 timeline.
 
@@ -134,7 +134,7 @@ Generate a yWriter 7 project from an Aeon 3 timeline.
 
 ---
 
-### yw2md
+## yw2md
 
 Markdown converter for yWriter projects.
 
@@ -142,7 +142,7 @@ Markdown converter for yWriter projects.
 
 ---
 
-### yw2odm
+## yw2odm
 
 yWriter export to odm/odt documents.
 
@@ -151,7 +151,7 @@ yWriter export to odm/odt documents.
 
 ---
 
-### The PyWriter library
+## The PyWriter library
 
 Read, write, and process yWriter7 files with Python 3.
 
