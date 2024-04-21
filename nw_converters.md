@@ -12,6 +12,15 @@ Create a cross reference table with novelWriter metadata.
 
 [![nw_metadata](img/nw_metadata.png)](https://github.com/peter88213/nw_metadata)
 
+
+---
+
+## mm2nw
+
+Generate a novelWriter project from a FreeMind/Freeplane outline.
+
+[![mm2nw](img/mm2nw.png)](https://github.com/peter88213/mm2nw/)
+
 ---
 
 ## yw2nw
@@ -38,14 +47,6 @@ Generate a novelWriter project from a work in progress written with e.g. LibreOf
 
 [odt2nw](https://github.com/peter88213/odt2nw/)
 
-
----
-
-## mm2nw
-
-Generate a novelWriter project from a FreeMind/Freeplane outline.
-
-[![mm2nw](img/mm2nw.png)](https://github.com/peter88213/mm2nw/)
 
 
 
