@@ -9,5 +9,8 @@
 ### [OpenOffice/LibreOffice helpers for self publishers](oo_helpers.html)
 ### [Applications](applications.html)
 ### [The yWriter toolbox](yw_toolbox.html)
-### [Tools for transferring data to/from several applications](converters.html)
+### [novelWriter converters](nw_converters.html)
+### [Aeon Timeline converters and tools](aeon_converters.html)
+### [Obsidian converters](obsidian_converters.html)
+### [Manuskript converters](manuskript_converters.html)
 
