@@ -107,7 +107,7 @@ Generate a novelWriter project from a work in progress written with e.g. LibreOf
 
 Generate a novelWriter project from a FreeMind/Freeplane outline.
 
-[mm2nw](https://github.com/peter88213/mm2nw/)
+[![mm2nw](img/mm2nw.png)](https://github.com/peter88213/mm2nw/)
 
 
 
