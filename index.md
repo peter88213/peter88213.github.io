@@ -1,5 +1,8 @@
+---
+
 # My open source projects on GitHub
 
+---
 
 ### [OpenOffice/LibreOffice helpers for self publishers](oo_helpers.html)
 ### [Applications](applications.html)
