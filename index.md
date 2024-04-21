@@ -314,7 +314,7 @@ A Python application for Manuskript data export from outsides.
 
 Create a cross reference table with novelWriter metadata. 
 
-[nw_metadata](https://github.com/peter88213/nw_metadata)
+[![nw_metadata](img/nw_metadata.png)](https://github.com/peter88213/nw_metadata)
 
 ---
 
