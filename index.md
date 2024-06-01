@@ -32,6 +32,11 @@ Generate a *novelibre* project from a Scapple outline.
 XPress tagged text export from *novelibre* projects.
 
 
+## Documentation tools
+
+- **[dtd2rst](https://github.com/peter88213/dtd2rst)** --
+Generate a framework of reStructured Text pages for a DTD documentation.
+
 ## The yWriter toolbox
 
 - **[yw-cnv](https://peter88213.github.io/yw-cnv/)** --
