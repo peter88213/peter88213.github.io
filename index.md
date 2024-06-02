@@ -87,9 +87,6 @@ Synchronize Aeon Timeline 2 and yWriter.
 - **[scappex](https://peter88213.github.io/scappex/)** --
 Generate a yWriter 7 project from a Scapple outline.
 
-- **[aeon3yw](https://peter88213.github.io/aeon3yw/)** --
-Generate a yWriter 7 project from an Aeon 3 timeline.
-
 - **[yw2md](https://peter88213.github.io/yw2md/)** --
 Markdown converter for yWriter projects.
 
@@ -120,17 +117,8 @@ Generate a novelWriter project from a work in progress written with e.g. LibreOf
 
 ## Aeon Timeline converters and tools
 
-- **[aeon3odt](https://peter88213.github.io/aeon3odt/)** --
-The aeon3odt extension for LibreOffice: Import Aeon Timeline 3 project data.
-
-- **[aeon3obsidian](https://peter88213.github.io/aeon3obsidian/)** --
-Export Aeon Timeline 3 project to Obsidian Markdown files.
-
 - **[aeon2obsidian](https://peter88213.github.io/aeon2obsidian/)** --
 Export Aeon Timeline 2 project to Obsidian Markdown files.
-
-- **[aeon3md](https://peter88213.github.io/aeon3md/)** --
-Markdown export for Aeon Timeline 3.
 
 - **[paeon tools](https://peter88213.github.io/paeon/)** --
 Tools for Aeon Timeline support.
@@ -138,17 +126,11 @@ Tools for Aeon Timeline support.
 - **[aeon2yw](https://peter88213.github.io/aeon2yw/)** --
 Synchronize Aeon Timeline 2 and yWriter.
 
-- **[aeon3yw](https://peter88213.github.io/aeon3yw/)** --
-Generate a yWriter 7 project from an Aeon 3 timeline.
-
 
 ## Obsidian converters
 
 - **[zim2obsidian](https://github.com/peter88213/zim2obsidian/)** --
 Post-process Zim Markdown export for use with Obsidian. 
-
-- **[aeon3obsidian](https://peter88213.github.io/aeon3obsidian/)** --
-Export Aeon Timeline 3 project to Obsidian Markdown files.
 
 - **[aeon2obsidian](https://peter88213.github.io/aeon2obsidian/)** --
 Export Aeon Timeline 2 project to Obsidian Markdown files.
