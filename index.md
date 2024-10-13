@@ -32,6 +32,12 @@ Generate a *novelibre* project from a Scapple outline.
 XPress tagged text export from *novelibre* projects.
 
 
+## The mdnovel application
+
+- **[mdnovel](https://github.com/peter88213/mdnovel/)** --
+A novel writing application using Markdown.
+
+
 ## Documentation tools
 
 - **[dtd2rst](https://github.com/peter88213/dtd2rst)** --
