@@ -58,6 +58,9 @@ Import and export yWriter 7 projects with OpenOffice and Python.
 - **[ProofYw7](https://peter88213.github.io/ProofYw7/)** --
 Import and export ywriter7 scenes for proof reading with third-party word processors.
 
+- **[yw-tlview](https://github.com/peter88213/yw_tlview)** --
+A timeline viewer for yWriter projects. 
+
 - **[yw-viewer](https://peter88213.github.io/yw-viewer/)** --
 Quickly view yWriter projects.
 
