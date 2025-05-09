@@ -130,6 +130,9 @@ Generate a novelWriter project from a work in progress written with e.g. LibreOf
 
 ## Aeon Timeline converters and tools
 
+- **[aeon3obsidian](https://github.com/peter88213/aeon3obsidian)** --
+Export Aeon Timeline 3 project to Obsidian YAML/Markdown files.
+
 - **[aeon2obsidian](https://peter88213.github.io/aeon2obsidian/)** --
 Export Aeon Timeline 2 project to Obsidian Markdown files.
 
@@ -144,6 +147,9 @@ Synchronize Aeon Timeline 2 and yWriter.
 
 - **[zim2obsidian](https://github.com/peter88213/zim2obsidian/)** --
 Post-process Zim Markdown export for use with Obsidian. 
+
+- **[aeon3obsidian](https://github.com/peter88213/aeon3obsidian)** --
+Export Aeon Timeline 3 project to Obsidian YAML/Markdown files.
 
 - **[aeon2obsidian](https://peter88213.github.io/aeon2obsidian/)** --
 Export Aeon Timeline 2 project to Obsidian Markdown files.
