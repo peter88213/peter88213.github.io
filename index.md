@@ -31,6 +31,9 @@ Generate a *novelibre* project from a Scapple outline.
 - **[novx_xtg](https://github.com/peter88213/novx_xtg/)** --
 XPress tagged text export from *novelibre* projects.
 
+- **[novx_html](https://github.com/peter88213/novx_html/)** -- 
+A template-based html exporter.
+
 ## A timeline viewer application and library
 
 - **[timeline-view-tk](https://github.com/peter88213/timeline-view-tk/)** --
